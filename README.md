@@ -19,8 +19,10 @@
 
 - 🔭 I’m currently working on [Hamro Agro Farm](https://github.com/ghimiresaroj09/hamroagrofarm)
 - 🌱 I’m currently learning **Django, DRF**
+- 👯 I’m looking to collaborate on **building the django based web projects.**
+- 🤝 I’m looking for help with **Frontend templates**
 - 👨‍💻 All of my projects are available at [https://www.ghimiresaroj09.com.np/](https://www.ghimiresaroj09.com.np/)
-- 💬 Ask me about **Django, OOP, Python**
+- 💬 Ask me about **Django, OOPs, Python**
 - 📫 How to reach me: **ghimies090@gmail.com**
 - ⚡ Fun fact: **I think I am good at talking sports more detailedly.**
 
