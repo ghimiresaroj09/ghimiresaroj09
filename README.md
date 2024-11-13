@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Saroj Ghimire. I am from Nepal 🇳🇵</h1>
+<h1 align="center">Hi 👋, Myself Saroj Ghimire.</h1>
 <h3 align="center">A passionate backend developer from Nepal🇳🇵</h3>
 
 <p align="center">
@@ -88,8 +88,4 @@
 <h3 align="center">GitHub Stats & Streak:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghimiresaroj09&" alt="ghimiresaroj09" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghimiresaroj09/ghimiresaroj09/output/snake.svg" alt="Snake animation" />
 </p>
