@@ -46,12 +46,6 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghimiresaroj09&show_icons=true&hide_title=false&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghimiresaroj09&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
 
 ---
 
@@ -106,8 +100,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimiresaroj09&" alt="ghimiresaroj09" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
