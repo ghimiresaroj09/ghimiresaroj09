@@ -91,5 +91,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ghimiresaroj09/ghimiresaroj09/output/snake.svg" alt="Snake animation" />
 </p>
