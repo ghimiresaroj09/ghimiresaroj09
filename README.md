@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Saroj Ghimire.</h1>
-<h3 align="center">A passionate backend developer from Nepal🇳🇵</h3>
+<h3 align="center">A passionate QA Analyst from Nepal🇳🇵</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghimiresaroj09&label=Profile%20views&color=0e75b6&style=flat" alt="ghimiresaroj09" />
@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on **building the django based web projects.**
 - 🤝 I’m looking for help with **Frontend templates**
 - 👨‍💻 All of my projects are available at [https://www.ghimiresaroj09.com.np/](https://www.ghimiresaroj09.com.np/)
-- 💬 Ask me about **Django, OOPs, Python**
+- 💬 Ask me about **Django, OOPs, Python, Selenium, Manual Testing, Jmeter**
 - 📫 How to reach me: **ghimies090@gmail.com**
 - ⚡ Fun fact: **I think I am good at talking sports more detailedly.**
 
