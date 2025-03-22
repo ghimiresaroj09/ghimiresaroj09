@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ghimiresaroj09&label=Profile%20views&color=0e75b6&style=flat" alt="ghimiresaroj09" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ghimiresaroj09" alt="ghimiresaroj09" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://twitter.com/sg_cfc02cl" target="blank">
@@ -26,7 +21,6 @@
 - 📫 How to reach me: **ghimies090@gmail.com**
 - ⚡ Fun fact: **I think I am good at talking sports more detailedly.**
 
-<img align="right" height="300" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
