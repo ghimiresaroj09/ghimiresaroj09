@@ -12,15 +12,16 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Hamro Agro Farm](https://github.com/ghimiresaroj09/hamroagrofarm)
-- 🌱 I’m currently learning **Django, DRF**
-- 👯 I’m looking to collaborate on **building the django based web projects.**
-- 🤝 I’m looking for help with **Frontend templates**
-- 👨‍💻 All of my projects are available at [https://www.ghimiresaroj09.com.np/](https://www.ghimiresaroj09.com.np/)
-- 💬 Ask me about **Django, OOPs, Python, Selenium, Manual Testing, Jmeter**
-- 📫 How to reach me: **ghimies090@gmail.com**
-- ⚡ Fun fact: **I think I am good at talking sports more detailedly.**
+🧪 What I Do
+🔍 Conduct manual testing to uncover UI inconsistencies and functionality issues
 
+🤖 Automate test cases using Selenium, Pytest, and Allure Reports
+
+🧭 Explore performance testing with JMeter to identify bottlenecks
+
+📊 Write clean, scalable, and maintainable test scripts
+
+🧠 Continuously improve testing efficiency through better tools and processes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
