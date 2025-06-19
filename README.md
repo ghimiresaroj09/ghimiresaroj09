@@ -12,7 +12,7 @@
   </a>
 </p>
 
-🧪 What I Do
+<h4> 🧪 What I Do </h4>
 🔍 Conduct manual testing to uncover UI inconsistencies and functionality issues
 
 🤖 Automate test cases using Selenium, Pytest, and Allure Reports
