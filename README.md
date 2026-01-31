@@ -36,16 +36,12 @@ I am a passionate QA Analyst focused on ensuring software quality through both *
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity (Badges)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghimiresaroj09&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresaroj09&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghimiresaroj09" alt="GitHub Streak" />
-</p>
+![Top Langs](https://img.shields.io/github/languages/top/ghimiresaroj09?color=purple)  
+![Commits](https://img.shields.io/github/commit-activity/m/ghimiresaroj09)  
+![PRs](https://img.shields.io/github/issues-pr/ghimiresaroj09)  
+![Open Issues](https://img.shields.io/github/issues/ghimiresaroj09)  
 
 ---
 
