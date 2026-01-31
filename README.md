@@ -31,18 +31,8 @@ I am a passionate QA Analyst focused on ensuring software quality through both *
 | Python | Selenium | Postman |
 | Java | Pytest | JMeter |
 | SQL | Django | Git |
-| HTML/CSS | Allure Reports | Pandas |
-| AWS | Figma | SQL Server |
 
 ---
 
-## 📈 GitHub Activity (Badges)
-
-![Top Langs](https://img.shields.io/github/languages/top/ghimiresaroj09?color=purple)  
-![Commits](https://img.shields.io/github/commit-activity/m/ghimiresaroj09)  
-![PRs](https://img.shields.io/github/issues-pr/ghimiresaroj09)  
-![Open Issues](https://img.shields.io/github/issues/ghimiresaroj09)  
-
----
 
 > “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
